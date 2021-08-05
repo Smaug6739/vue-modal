@@ -1,0 +1,10 @@
+  <div>
+    <button id="btnWindow" @click="openWindow">{{ windowName }}</button>
+
+    <div id="window" class="window">
+      <div class="window-content">
+        <span class="close" @click="closeWindow">&times;</span>
+        <slot name="windowContent"> </slot>
+      </div>
+    </div>
+  </div>

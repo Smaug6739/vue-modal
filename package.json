@@ -1,0 +1,28 @@
+{
+  "name": "vue-modal-plugin",
+  "version": "1.0.0",
+  "description": "A component for create modal with vuejs",
+  "main": "./index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smaug6739/vue-modal.git"
+  },
+  "keywords": [
+    "vue",
+    "modal",
+    "window",
+    "template"
+  ],
+  "author": "Smaug6739",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Smaug6739/vue-modal/issues"
+  },
+  "homepage": "https://github.com/Smaug6739/vue-modal#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}

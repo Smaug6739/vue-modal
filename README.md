@@ -10,9 +10,7 @@ A component for create modal with vuejs
 
 Open the windows component
 
-Returns :
-
-Void
+Returns : Void
 
 ```js
 this.openWindow();
@@ -22,9 +20,7 @@ this.openWindow();
 
 Close the windows component
 
-Returns :
-
-Void
+Returns : Void
 
 ```js
 this.closeWindow();
